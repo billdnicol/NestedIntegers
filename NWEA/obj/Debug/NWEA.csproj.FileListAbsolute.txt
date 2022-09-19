@@ -1,0 +1,8 @@
+C:\Users\Bill\source\repos\NWEA\NWEA\bin\Debug\NWEA.exe.config
+C:\Users\Bill\source\repos\NWEA\NWEA\bin\Debug\NWEA.exe
+C:\Users\Bill\source\repos\NWEA\NWEA\bin\Debug\NWEA.pdb
+C:\Users\Bill\source\repos\NWEA\NWEA\obj\Debug\NWEA.csproj.AssemblyReference.cache
+C:\Users\Bill\source\repos\NWEA\NWEA\obj\Debug\NWEA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bill\source\repos\NWEA\NWEA\obj\Debug\NWEA.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\NWEA\NWEA\obj\Debug\NWEA.exe
+C:\Users\Bill\source\repos\NWEA\NWEA\obj\Debug\NWEA.pdb
